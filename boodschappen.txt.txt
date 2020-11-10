@@ -3,9 +3,10 @@ Pizza:
 - salami
 - mozarella
 - tomatensaus
+-Parmazaan
 
 Ontbijt:
 -Eieren
 -Brood
 -Boter
-
+-sinasappelsap
